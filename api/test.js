@@ -1,0 +1,1 @@
+var fs = requre('fs');

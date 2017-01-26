@@ -1,0 +1,1 @@
+// c++ addons can be imported in node with require
